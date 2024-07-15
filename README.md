@@ -68,16 +68,15 @@
 
 ### 🖥️ Misc tools:
 <div align="center">
-  <img src="https://img.shields.io/badge/-Git-000?&logo=Git" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-000?&logo=GitHub" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-GitLab-000?&logo=GitLab" alt="GitLab" />
-  <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Jira-000?&logo=Jira" alt="Jira" />
-  <img src="https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code" alt="VS Code" />
-  <img src="https://img.shields.io/badge/-Postman-000?&logo=Postman" alt="Postman" />
-  <img src="https://img.shields.io/badge/Notion-black?logo=notion" alt="Notion" />
-  <img src="https://img.shields.io/badge/-Unity-%23444444?logo=Unity" alt="Unity" />
-  <img src="https://img.shields.io/badge/Slack-666?logo=slack" alt="Slack" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 </div>
 
 ### 💾 Databases:
