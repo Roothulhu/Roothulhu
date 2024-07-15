@@ -14,7 +14,7 @@
 🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: JavaScript, TypeScript, C#
 🚩 Interested in Full Stack Development and VideoGame Development
-🤔 This is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 This is <a href="https://drive.google.com/file/d/1DxfZ59pRtsx7wvgGmI7_2nPdTO-WSQpz/view" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
