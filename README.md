@@ -1,27 +1,78 @@
-<h1 align="center">Hi 👋, I'm Rafa</h1>
+Hi 👋, I'm Rafa Hernandez, Videogame Engineer based in Mexico. I have experience working as a Unity Developer and as a Full Dtack engineer.
 
-🌱 I’m currently working as a  **Full-Stack Developer**
+## Me around the web:
+-------------------
 
-<br>
-<h3 align="left">Languages:</h3>
-  <p align="left"> 
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  </p>
-<br>
 
-<h3 align="left">Developer Tools:</h3>
-<p align="left"> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> 
-</p>
+&emsp;
+<a href="https://mx.linkedin.com/in/rafahdzch">
+    ![Linkedin: RafaHdzCh](https://img.shields.io/badge/-RafaHdzCh-blue?style=flat-square&logo=Linkedin&logoColor=white)
+</a>
+<a href="https://www.instagram.com/rafahdzch/">
+    ![Instagram: RafaHdzCh](https://img.shields.io/badge/-rafahdzch-000?&logo=Instagram)
+</a>
+<a href="https://github.com/rafahdzch">
+    ![GitHub: RafaHdzCh](https://img.shields.io/github/followers/rafahdzch?label=follow&style=social)
+</a>
+&emsp;
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafahdzch&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="RafaHdzCh">
-<br />
-<br />
+## 🛠️ My Skills
+-------------------
+### Programming languages:
+&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![C#](https://img.shields.io/badge/C%23-007ACC?style=flat&logo=CSharp&logoColor=white)
+
+### Frontend development:
+&emsp;
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+
+### Misc tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Postman](https://img.shields.io/badge/-Unity-%23444444?logo=Unity)
+
+
+### Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Supabase](https://shields.io/badge/supabase-black?logo=supabase)
+
+
+&emsp;
+
+
+## 📈 My GitHub Stats and Activity
+
+### 💻 Profile Stats
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafahdzch&layout=compact&theme=dark&bg_color=0A0A0A" alt="RafaHdzCh"/>
+
+
+### 🔥 Streak Stats
+
+![Rafa's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=rafahdzch&theme=tokyonight)
+
+### 📊 Contribution Stats
+
+Last Edited on: 07/15/2024
+
+<br />
+<br />
 <br />
 <br />
 <br />
