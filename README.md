@@ -7,13 +7,12 @@
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer 
 📚 I have a Bachelors in Videogame Engineering from the University FITECH at Mexico
-📝 I have a strong interest in videogames, comics and movies.
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
+📝 I have a strong interest in videogames, comics and books.
+🔭 Working as Full Stack Developer
+🌱 Learning about Front End Development
 🌟 Main languages: JavaScript, TypeScript, C#
-🚩 Interested in Full Stack Development and VideoGame Development
+🚩 Interested in Full Stack Development and Videogame Development
 🤔 This is <a href="https://drive.google.com/file/d/1DxfZ59pRtsx7wvgGmI7_2nPdTO-WSQpz/view" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
