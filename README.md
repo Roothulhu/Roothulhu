@@ -121,10 +121,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafahdzch&theme=tokyonight" alt="Rafa's GitHub stats"/>
 </div>
 
-Last Edited on: 07/15/2024
+<br />
 
-<br />
-<br />
-<br />
-<br />
-<br />
+<div align="center">
+  Last Edited on: 07/15/2024
+</div>
