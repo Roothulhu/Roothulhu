@@ -81,15 +81,15 @@
 
 ### 💾 Databases:
 <div align="center">
-  <img src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL" alt="PostgreSQL" />
-  <img src="https://shields.io/badge/supabase-black?logo=supabase" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </div>
 
 ### ☁️ Hosting:
 <div align="center">
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </div>
 
 ### 🎮 Gaming:
