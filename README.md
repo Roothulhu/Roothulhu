@@ -29,14 +29,14 @@
   <a href="https://www.instagram.com/rafahdzch/">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram: RafaHdzCh" />
   </a>
+  <a href="https://rafahdzcucs.wixsite.com/rafaelhernandez">
+      <img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
+  </a>
   <a href="https://github.com/rafahdzch">
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: RafaHdzCh" />
   </a>
   <a>
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://rafahdzcucs.wixsite.com/rafaelhernandez">
-      <img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
   </a>
 </div>
 &emsp;
