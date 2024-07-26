@@ -35,6 +35,9 @@
   <a>
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
+  <a href="https://rafahdzcucs.wixsite.com/rafaelhernandez">
+      <img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
+  </a>
 </div>
 &emsp;
 
