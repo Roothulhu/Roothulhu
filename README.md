@@ -7,13 +7,14 @@
 <hr>
 
 <pre>
-📚 I have a Bachelors in Videogame Engineering from the University FITECH at Mexico
+🎓 I have a Bachelors in Videogame Engineering from the University FITECH at Mexico
 📖 I have a strong interest in animals, videogames and comicbooks.
 🔭 Working as Full-Stack Developer at UNIAT
 🌱 Learning about Front-end Development
 🌟 Main languages: TypeScript & C#
 🚩 Interested in Full Stack Development and Videogame Development
 📝 This is <a href="https://drive.google.com/file/d/1DxfZ59pRtsx7wvgGmI7_2nPdTO-WSQpz/view" target="_blank">MY RESUME.</a>
+📚 These are some of my <a href="https://drive.google.com/drive/u/1/folders/1p0QPrJRsfh9ApE8ZsHY3tTeKaESiyG40" target="_blank">CREDENTIALS.</a>
 </pre>
 <hr>
 
@@ -30,7 +31,7 @@
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram: RafaHdzCh" />
   </a>
   <a href="https://rafahdzcucs.wixsite.com/rafaelhernandez">
-      <img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/website-%2326E07F.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/rafahdzch">
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: RafaHdzCh" />
@@ -164,8 +165,12 @@
 
 ### 🛒 Game Publishing Online
 <div align="center">
-  <a href="https://www.apple.com/app-store/"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" alt="App Store" /></a>
-  <a href="https://play.google.com/store"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /></a>
+  <a href="https://www.apple.com/app-store/">
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" />
+  </a>
+  <a href="https://play.google.com/store">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
+  </a>
 </div>
 
 
