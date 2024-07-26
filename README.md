@@ -8,12 +8,12 @@
 
 <pre>
 📚 I have a Bachelors in Videogame Engineering from the University FITECH at Mexico
-📝 I have a strong interest in videogames, comics and books.
-🔭 Working as Full Stack Developer
-🌱 Learning about Front End Development
-🌟 Main languages: JavaScript, TypeScript, C#
+📖 I have a strong interest in animals, videogames and comicbooks.
+🔭 Working as Full-Stack Developer at UNIAT
+🌱 Learning about Front-end Development
+🌟 Main languages: TypeScript & C#
 🚩 Interested in Full Stack Development and Videogame Development
-🤔 This is <a href="https://drive.google.com/file/d/1DxfZ59pRtsx7wvgGmI7_2nPdTO-WSQpz/view" target="_blank">MY RESUME.</a>
+📝 This is <a href="https://drive.google.com/file/d/1DxfZ59pRtsx7wvgGmI7_2nPdTO-WSQpz/view" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
