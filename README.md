@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/rafahdzch/">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram: RafaHdzCh" />
   </a>
-  <a href="https://rafahdzcucs.wixsite.com/rafaelhernandez">
+  <a href="https://rafahdzch.com">
       <img src="https://img.shields.io/badge/website-%2326E07F.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
   </a>
   <a href="https://github.com/rafahdzch">
