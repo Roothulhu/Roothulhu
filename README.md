@@ -57,6 +57,20 @@
   </a>
 </div>
 
+### 🧑‍💻 Game development:
+<div align="center">
+  <a href="https://learn.unity.com/pathway/unity-essentials" target="_blank">
+    <img src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" alt="Unity Essentials" width="100" height="100" />
+  </a>
+  <a href="https://learn.unity.com/pathway/junior-programmer" target="_blank">
+    <img src="https://images.credly.com/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" alt="Junior Programmer" width="100" height="100" />
+  </a>
+  <a href="https://learn.unity.com/pathway/creative-core" target="_blank">
+    <img src="https://images.credly.com/images/24c48b7e-6c7b-4763-91e7-379565ba4e42/image.png" alt="Creative Core" width="100" height="100" />
+  </a>
+</div>
+
+
 ### 🧑‍💻 Web development:
 <div align="center">
   <a href="https://nodejs.org/" target="_blank">
