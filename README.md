@@ -57,9 +57,9 @@
   </a>
 </div>
 
-### 🧑‍💻 Game development:
+### 🕹️ Game development:
 <div align="center">
-  <a href="https://learn.unity.com/pathway/unity-essentials" target="_blank">
+  <a href="https://www.credly.com/badges/b11e5b65-ffab-453e-8f2b-648d02e96e20" target="_blank">
     <img src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" alt="Unity Essentials" width="100" height="100" />
   </a>
   <a href="https://learn.unity.com/pathway/junior-programmer" target="_blank">
