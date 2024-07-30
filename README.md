@@ -18,7 +18,7 @@
 </pre>
 <hr>
 
-## 💬 Me around the web:
+## 💬 Me around the web
 -------------------
 
 
@@ -42,9 +42,10 @@
 </div>
 &emsp;
 
-## 🛠️ My Skills
+## ⌨️ Programming languages
 -------------------
-### ⌨️ Programming languages:
+
+&emsp;
 <div align="center">
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -56,8 +57,13 @@
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   </a>
 </div>
+&emsp;
 
-### 🕹️ Game development:
+## 🕹️ Videogame Development
+-------------------
+
+&emsp;
+### 🏆 Unity Pathways:
 <div align="center">
   <a href="https://www.credly.com/badges/b11e5b65-ffab-453e-8f2b-648d02e96e20" target="_blank">
     <img src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" alt="RafaHdzCh's Unity Essentials" width="100" height="100" />
@@ -70,7 +76,7 @@
   </a>
 </div>
 
-## 🏆 Unity Programmer Badges:
+### 🏆 Unity Programmer Badges:
 <div align="center">
   <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
     <img src="https://unity-connect-prd.storage.googleapis.com/20201002/learn/images/01ae15f1-d8c7-4059-8918-3065f796306b_04_Source_Control__Optimization__and_Publishing_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
@@ -127,7 +133,22 @@
   </a>
 </div>
 
-### 🧑‍💻 Web development:
+### 🛒 Game Publishing Online
+<div align="center">
+  <a href="https://www.apple.com/app-store/">
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" />
+  </a>
+  <a href="https://play.google.com/store">
+    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
+  </a>
+</div>
+
+&emsp;
+## 🌐 Web development
+-------------------
+
+&emsp;
+### 🔧 Web tools:
 <div align="center">
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
@@ -200,8 +221,6 @@
   </a>
 </div>
 
-## 🛠️ My Skills
--------------------
 ### 🖥️ Misc tools:
 <div align="center">
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
@@ -218,7 +237,6 @@
   <a href="https://get.webgl.org/"><img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge" alt="WebGL" /></a>
 </div>
 
-
 ### 💾 Databases:
 <div align="center">
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
@@ -226,42 +244,15 @@
   <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
 </div>
 
-
 ### ☁️ Hosting:
 <div align="center">
   <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" /></a>
   <a href="https://vercel.com/"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
 </div>
 
-### 🛒 Game Publishing Online
-<div align="center">
-  <a href="https://www.apple.com/app-store/">
-    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" />
-  </a>
-  <a href="https://play.google.com/store">
-    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" />
-  </a>
-</div>
-
-
-### 🎮 Gaming:
-<div align="center">
-  <a href="https://www.battle.net/"><img src="https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white" alt="Battle.net" /></a>
-  <a href="https://www.ea.com/"><img src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white" alt="EA" /></a>
-  <a href="https://www.epicgames.com/store/en-US/"><img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" /></a>
-  <a href="https://www.humblebundle.com/"><img src="https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white" alt="Humble Bundle" /></a>
-  <a href="https://itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" alt="Itch.io" /></a>
-  <a href="https://www.nvidia.com/"><img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="nVIDIA" /></a>
-  <a href="https://store.steampowered.com/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
-  <a href="https://www.ubisoft.com/"><img src="https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black" alt="Ubisoft" /></a>
-  <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" /></a>
-  <a href="https://unity.com/"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></a>
-  <a href="https://www.xbox.com/"><img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" /></a>
-</div>
-
-
+&emsp;
 ## 📈 My GitHub Stats and Activity
-
+&emsp;
 ### 💻 Profile Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafahdzch&layout=compact&theme=dark&bg_color=0A0A0A" alt="RafaHdzCh"/>
