@@ -60,16 +60,72 @@
 ### 🕹️ Game development:
 <div align="center">
   <a href="https://www.credly.com/badges/b11e5b65-ffab-453e-8f2b-648d02e96e20" target="_blank">
-    <img src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" alt="Unity Essentials" width="100" height="100" />
+    <img src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" alt="RafaHdzCh's Unity Essentials" width="100" height="100" />
   </a>
   <a href="https://www.credly.com/badges/d321f973-3361-4e23-a38a-56c8912332ee" target="_blank">
-    <img src="https://images.credly.com/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" alt="Junior Programmer" width="100" height="100" />
+    <img src="https://images.credly.com/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" alt="RafaHdzCh's Unity Programmer" width="100" height="100" />
   </a>
   <a href="https://learn.unity.com/pathway/creative-core" target="_blank">
-    <img src="https://images.credly.com/images/24c48b7e-6c7b-4763-91e7-379565ba4e42/image.png" alt="Creative Core" width="100" height="100" />
+    <img src="https://images.credly.com/images/24c48b7e-6c7b-4763-91e7-379565ba4e42/image.png" alt="RafaHdzCh's Unity Creative Core" width="100" height="100" />
   </a>
 </div>
 
+## 🏆 Unity Programmer Badges:
+<div align="center">
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20201002/learn/images/01ae15f1-d8c7-4059-8918-3065f796306b_04_Source_Control__Optimization__and_Publishing_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20201001/learn/images/eb8bd34f-7598-40f4-8a8d-d1812ed8c149_03_Programming___Data_Structures_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20201001/learn/images/1c5d92e6-cdfb-47db-a501-e95517778724_02_Programming_Essentials_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20200928/learn/images/67e42083-92a8-4ff3-af64-2865b8c78081_01_Programming_Basics_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+</div>
+
+### 🏆 Unity Creative Core Badges:
+<div align="center">
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20211130/learn/images/ad148b76-e97d-4ac6-b51b-1014bed071b9_Badge11_Prototyping.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20211130/learn/images/df115108-d755-4cf3-a31d-cbcafcb6f4f3_Badge10_UI.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+</div>
+
+### 🏆 Unity Essentials Badges:
+<div align="center">
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20240521/learn/images/bee70d77-814d-493d-9e6d-a8dc3ec0fdaa_Mission6_PublishingEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20240521/learn/images/8561703a-a5f8-40ef-8330-d84bc586d630_Mission5_2DEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20240521/learn/images/2c09924e-4c4b-4a74-bd36-b5b2b759de9d_Mission4_ProgrammingEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20240520/learn/images/482b659b-a14b-4626-a835-1cd7400e4fa6_Mission3_AudioEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20240520/learn/images/fe7bd022-9127-4cd6-868d-6bea4bb50a82_Mission2_3DEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20240520/learn/images/ac3403d4-67e1-4043-991b-6024a6c7cb2c_Mission1_EditorEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20201006/learn/images/c0738a29-fb1a-4bc1-8cb1-95d47762a2cc_03_Unity_Engine_Essentialls_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20201113/learn/images/bac9b7bd-4670-4b31-b635-789fb80435cf_01_Real_Time_Essentials_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20201028/learn/images/c01fcc3c-687d-4752-96dc-35e739715c3d_02_Real_Time_Creation_Essentials_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+</div>
 
 ### 🧑‍💻 Web development:
 <div align="center">
