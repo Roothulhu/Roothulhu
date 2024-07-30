@@ -133,7 +133,7 @@
   </a>
 </div>
 
-### 🛒 Game Publishing Online
+### 🛒 Game Publishing Online:
 <div align="center">
   <a href="https://www.apple.com/app-store/">
     <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" />
@@ -253,12 +253,12 @@
 &emsp;
 ## 📈 My GitHub Stats and Activity
 &emsp;
-### 💻 Profile Stats
+### 💻 Profile Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafahdzch&layout=compact&theme=dark&bg_color=0A0A0A" alt="RafaHdzCh"/>
 </div>
 
-### 🔥 Streak Stats
+### 🔥 Streak Stats:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafahdzch&theme=tokyonight" alt="Rafa's GitHub stats"/>
 </div>
@@ -266,5 +266,5 @@
 <br />
 
 <div align="center">
-  Last Edited on: 07/24/2024
+  Last Edited on: 07/30/2024
 </div>
