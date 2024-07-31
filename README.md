@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Rafa Hernandez</h1>
   <p>Videogame Engineer based in Mexico.</p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/RafaHdzCh.png" alt="TryHackMe">
 </div>
 
 
