@@ -100,7 +100,11 @@
   <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
     <img src="https://unity-connect-prd.storage.googleapis.com/20211130/learn/images/df115108-d755-4cf3-a31d-cbcafcb6f4f3_Badge10_UI.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
   </a>
+  <a href="https://learn.unity.com/u/5e0b98a4edbc2a143a24dcff" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20211201/learn/images/df4e5130-456e-459e-a244-8dc0322a570f_Badge2_Pipelines.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
 </div>
+
 
 ### 🏆 Unity Essentials Badges:
 <div align="center">
