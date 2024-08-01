@@ -107,6 +107,9 @@
   <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
     <img src="https://unity-connect-prd.storage.googleapis.com/20211125/learn/images/765dee2f-12dc-4806-bc15-258dae29d5bd_Badge3_Shaders.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
   </a>
+  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20211126/learn/images/c92486e9-692e-42df-a774-f551210860f8_Badge4_Lighting.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
 </div>
 
 
