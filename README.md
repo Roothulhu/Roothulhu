@@ -111,6 +111,8 @@
     <img src="https://unity-connect-prd.storage.googleapis.com/20211130/learn/images/3bd1df3b-11f2-4cd4-8ed7-d5b1f6552777_Badge6_Animation.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
   <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
     <img src="https://unity-connect-prd.storage.googleapis.com/20211130/learn/images/11b0f152-b03c-4eeb-a83c-71a201b1f307_Badge7_Camera.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20211130/learn/images/14b3a412-73c7-440b-9f4b-243da6d6be70_Badge9_Post_processing.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
 </div>
 
 
