@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c29227cb-60d6-4732-92fe-eafc3dca6a14)<div align="center">
+<div align="center">
   <h1>Hi 👋, I'm Rafa Hernandez</h1>
   <p>Videogame Engineer based in Mexico.</p>
   <img src="https://tryhackme-badges.s3.amazonaws.com/RafaHdzCh.png" alt="TryHackMe">
