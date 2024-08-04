@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/c29227cb-60d6-4732-92fe-eafc3dca6a14)<div align="center">
   <h1>Hi 👋, I'm Rafa Hernandez</h1>
   <p>Videogame Engineer based in Mexico.</p>
   <img src="https://tryhackme-badges.s3.amazonaws.com/RafaHdzCh.png" alt="TryHackMe">
@@ -72,6 +72,9 @@
   <a href="https://www.credly.com/badges/d321f973-3361-4e23-a38a-56c8912332ee" target="_blank">
     <img src="https://images.credly.com/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" alt="RafaHdzCh's Unity Programmer" width="100" height="100" />
   </a>
+<a href="https://www.credly.com/badges/d321f973-3361-4e23-a38a-56c8912332ee" target="_blank">
+    <img src="https://images.credly.com/images/24c48b7e-6c7b-4763-91e7-379565ba4e42/image.png" alt="RafaHdzCh's Unity Programmer" width="100" height="100" />
+  </a>
 </div>
 
 ### 🏆 Unity Programmer Badges:
@@ -103,6 +106,9 @@
   </a>
   <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
     <img src="https://unity-connect-prd.storage.googleapis.com/20211126/learn/images/c92486e9-692e-42df-a774-f551210860f8_Badge4_Lighting.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+<a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20211130/learn/images/a8107033-a924-4a82-9b2c-89c5a91c8cee_Badge5_VFX.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
   </a>
   <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
     <img src="https://unity-connect-prd.storage.googleapis.com/20211130/learn/images/3bd1df3b-11f2-4cd4-8ed7-d5b1f6552777_Badge6_Animation.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
