@@ -77,6 +77,13 @@
   </a>
 </div>
 
+### 🏆 Unity AR Badges:
+<div align="center">
+  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20230227/learn/images/7cf2b661-1345-423c-8136-2c847ba890f2_AR_mission0.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+</div>
+
 ### 🏆 Unity Programmer Badges:
 <div align="center">
   <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
@@ -90,6 +97,37 @@
   </a>
   <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
     <img src="https://unity-connect-prd.storage.googleapis.com/20200928/learn/images/67e42083-92a8-4ff3-af64-2865b8c78081_01_Programming_Basics_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+</div>
+
+### 🏆 Unity Essentials Badges:
+<div align="center">
+  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20240521/learn/images/bee70d77-814d-493d-9e6d-a8dc3ec0fdaa_Mission6_PublishingEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20240521/learn/images/8561703a-a5f8-40ef-8330-d84bc586d630_Mission5_2DEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20240521/learn/images/2c09924e-4c4b-4a74-bd36-b5b2b759de9d_Mission4_ProgrammingEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20240520/learn/images/482b659b-a14b-4626-a835-1cd7400e4fa6_Mission3_AudioEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20240520/learn/images/fe7bd022-9127-4cd6-868d-6bea4bb50a82_Mission2_3DEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20240520/learn/images/ac3403d4-67e1-4043-991b-6024a6c7cb2c_Mission1_EditorEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20201006/learn/images/c0738a29-fb1a-4bc1-8cb1-95d47762a2cc_03_Unity_Engine_Essentialls_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20201113/learn/images/bac9b7bd-4670-4b31-b635-789fb80435cf_01_Real_Time_Essentials_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20201028/learn/images/c01fcc3c-687d-4752-96dc-35e739715c3d_02_Real_Time_Creation_Essentials_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
   </a>
 </div>
 
@@ -120,38 +158,6 @@
     <img src="https://unity-connect-prd.storage.googleapis.com/20211130/learn/images/14b3a412-73c7-440b-9f4b-243da6d6be70_Badge9_Post_processing.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
     <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
     <img src="https://unity-connect-prd.storage.googleapis.com/20211130/learn/images/df115108-d755-4cf3-a31d-cbcafcb6f4f3_Badge10_UI.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
-  </a>
-</div>
-
-
-### 🏆 Unity Essentials Badges:
-<div align="center">
-  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
-    <img src="https://unity-connect-prd.storage.googleapis.com/20240521/learn/images/bee70d77-814d-493d-9e6d-a8dc3ec0fdaa_Mission6_PublishingEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
-  </a>
-  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
-    <img src="https://unity-connect-prd.storage.googleapis.com/20240521/learn/images/8561703a-a5f8-40ef-8330-d84bc586d630_Mission5_2DEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
-  </a>
-  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
-    <img src="https://unity-connect-prd.storage.googleapis.com/20240521/learn/images/2c09924e-4c4b-4a74-bd36-b5b2b759de9d_Mission4_ProgrammingEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
-  </a>
-  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
-    <img src="https://unity-connect-prd.storage.googleapis.com/20240520/learn/images/482b659b-a14b-4626-a835-1cd7400e4fa6_Mission3_AudioEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
-  </a>
-  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
-    <img src="https://unity-connect-prd.storage.googleapis.com/20240520/learn/images/fe7bd022-9127-4cd6-868d-6bea4bb50a82_Mission2_3DEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
-  </a>
-  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
-    <img src="https://unity-connect-prd.storage.googleapis.com/20240520/learn/images/ac3403d4-67e1-4043-991b-6024a6c7cb2c_Mission1_EditorEssential.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
-  </a>
-  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
-    <img src="https://unity-connect-prd.storage.googleapis.com/20201006/learn/images/c0738a29-fb1a-4bc1-8cb1-95d47762a2cc_03_Unity_Engine_Essentialls_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
-  </a>
-  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
-    <img src="https://unity-connect-prd.storage.googleapis.com/20201113/learn/images/bac9b7bd-4670-4b31-b635-789fb80435cf_01_Real_Time_Essentials_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
-  </a>
-  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
-    <img src="https://unity-connect-prd.storage.googleapis.com/20201028/learn/images/c01fcc3c-687d-4752-96dc-35e739715c3d_02_Real_Time_Creation_Essentials_Mission.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
   </a>
 </div>
 
