@@ -85,6 +85,9 @@
   <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
     <img src="https://unity-connect-prd.storage.googleapis.com/20230223/learn/images/d20112e1-b48e-44a0-9aa3-ac9944d2cb32_AR_mission1_1x__1_.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
   </a>
+  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20230223/learn/images/c5b81897-1036-496f-a4e1-f58980354c3c_AR_mission2_1x__2_.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
 </div>
 
 ### 🏆 Unity Programmer Badges:
