@@ -37,9 +37,6 @@
   <a href="https://github.com/rafahdzch">
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: RafaHdzCh" />
   </a>
-  <a>
-      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </div>
 &emsp;
 
