@@ -14,7 +14,7 @@
 📖 I have a strong interest in animals, videogames and comicbooks.
 🌟 Main languages: TypeScript & C#
 🚩 Interested in Full Stack Development and Videogame Development
-📝 This is <a href="https://drive.google.com/file/d/1DxfZ59pRtsx7wvgGmI7_2nPdTO-WSQpz/view" target="_blank">MY RESUME</a>.
+📝 This is <a href="https://drive.google.com/file/d/1c2MzbfEh7zSN3Tf6CxvZymmwKUVkVjnJ/view" target="_blank">MY RESUME</a>.
 📚 These are some of my <a href="https://drive.google.com/drive/u/1/folders/1p0QPrJRsfh9ApE8ZsHY3tTeKaESiyG40" target="_blank">CREDENTIALS</a>.
 </pre>
 <hr>
@@ -84,6 +84,9 @@
   </a>
   <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
     <img src="https://unity-connect-prd.storage.googleapis.com/20230223/learn/images/c5b81897-1036-496f-a4e1-f58980354c3c_AR_mission2_1x__2_.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
+  </a>
+  <a href="https://learn.unity.com/u/rafahdzch" target="_blank">
+    <img src="https://unity-connect-prd.storage.googleapis.com/20230302/learn/images/6a767ad9-1b11-448f-946f-6894c1e72b90_AR_mission3_1x.png" alt="RafaHdzCh's Unity Learn Profile" width="75" height="75" />
   </a>
 </div>
 
