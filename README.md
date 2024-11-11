@@ -273,7 +273,10 @@
   <a href="https://unity.com/"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></a>
   <a href="https://slack.com/"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" /></a>
   <a href="https://get.webgl.org/"><img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge" alt="WebGL" /></a>
+  <a href="https://phaser.io/"><img src="https://img.shields.io/badge/Phaser-%23AB90BD.svg?style=for-the-badge&logo=phaser&logoColor=white" alt="Phaser" /></a>
+
 </div>
+
 
 ### 💾 Databases:
 <div align="center">
