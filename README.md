@@ -257,6 +257,10 @@
   <a href="https://webpack.js.org/" target="_blank">
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
   </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  
 </div>
 
 ### 🖥️ Misc tools:
