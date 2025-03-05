@@ -1,9 +1,10 @@
 <div align="center">
   <h1>Hi 👋, I'm Rafa Hernandez</h1>
   <p>Videogame Engineer / Full-stack Developer</p>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/RafaHdzCh.png" alt="TryHackMe">
+  <a href="https://app.hackthebox.com/profile/2168819" target="_blank">
+    <img src="https://www.hackthebox.eu/badge/image/2168819" alt="Rafa Hernandez - HTB Profile" width="200" align="center">
+  </a>
 </div>
-
 
 <hr>
 
