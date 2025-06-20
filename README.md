@@ -1,5 +1,4 @@
-<div align="center">
-  <h1>Hi, I'm Roothulhu 🐙</h1>
+![image](https://github.com/user-attachments/assets/033428af-3e20-44ae-9e82-ff71400ce120)  <h1>Hi, I'm Roothulhu 🐙</h1>
   <p>Game Developer / Web Developer / Pentester</p>
   <a href="https://app.hackthebox.com/profile/2168819" target="_blank">
     <img src="https://www.hackthebox.eu/badge/image/2168819" alt="Roothulhu - HTB Profile" width="200" align="center">
@@ -41,16 +40,16 @@
 ### 🏆 Unity Pathways:
 <div align="center">
   <a href="https://www.credly.com/badges/b11e5b65-ffab-453e-8f2b-648d02e96e20" target="_blank">
-    <img src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png" alt="RafaHdzCh's Unity Essentials" width="100" height="100" />
+    <img src="https://images.credly.com/size/680x680/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob" alt="RafaHdzCh's Unity Essentials" width="100" height="100" />
   </a>
   <a href="https://www.credly.com/badges/d321f973-3361-4e23-a38a-56c8912332ee" target="_blank">
-    <img src="https://images.credly.com/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" alt="RafaHdzCh's Unity Programmer" width="100" height="100" />
+    <img src="https://images.credly.com/size/680x680/images/a7bea4b9-3704-4905-8681-aeaf64efd2f1/blob" alt="RafaHdzCh's Unity Programmer" width="100" height="100" />
   </a>
   <a href="https://www.credly.com/badges/37eaf979-735b-45f0-8a1f-ba12d5573608" target="_blank">
-    <img src="https://images.credly.com/images/24c48b7e-6c7b-4763-91e7-379565ba4e42/image.png" alt="RafaHdzCh's Unity Creative Core" width="100" height="100" />
+    <img src="https://images.credly.com/size/680x680/images/cf7f5efa-aedb-4bf7-805c-7286db8a265b/blob" alt="RafaHdzCh's Unity Creative Core" width="100" height="100" />
   </a>
   <a href="https://www.credly.com/badges/8222251a-a415-4746-8452-7fc26a87abe5" target="_blank">
-    <img src="https://images.credly.com/images/40afed7b-df8f-44a9-9933-509cdf4abbc3/image.png" alt="RafaHdzCh's Unity Mobile AR Development" width="100" height="100" />
+    <img src="https://images.credly.com/size/680x680/images/d0ee0c88-fd72-4fec-82ac-4598f64bba9e/blob" alt="RafaHdzCh's Unity Mobile AR Development" width="100" height="100" />
   </a>
   
 </div>
