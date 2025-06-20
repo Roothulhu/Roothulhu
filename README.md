@@ -17,24 +17,6 @@
 </pre>
 <hr>
 
-## 💬 Me around the web
--------------------
-
-
-&emsp;
-<div align="center">
-  <a href="https://mx.linkedin.com/in/rafahdzch">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin: RafaHdzCh" />
-  </a>
-  <a href="https://rafahdzch.com">
-      <img src="https://img.shields.io/badge/website-%2326E07F.svg?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://github.com/roothulhu">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: Roothulhu" />
-  </a>
-</div>
-&emsp;
-
 ## ⌨️ Programming languages
 -------------------
 
