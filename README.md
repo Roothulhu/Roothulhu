@@ -9,12 +9,11 @@
 <hr>
 
 <pre>
-🎓 I have a Bachelors in Videogame Engineering from the University FITECH at Mexico
-🌱 Enrolled in a Master’s in Comprehensive Video Game Design and Development at UNIAT University of Advanced Technologies
-🔭 Working as Full-Stack Developer at UNIAT University of Advanced Technologies
+🎓 I have a Bachelors in Videogame Engineering
+🌱 Enrolled in a Master’s in Comprehensive Video Game Design and Development
+🔭 Working as Full-Stack Next.js Developer
 📖 I have a strong interest in animals, videogames and comicbooks.
-🌟 Main languages: TypeScript & C#
-🚩 Interested in Full Stack Development and Videogame Development
+🌟 Main languages: TypeScript, Pyhton, Bash, C#
 📝 This is <a href="https://drive.google.com/file/d/1c2MzbfEh7zSN3Tf6CxvZymmwKUVkVjnJ/view" target="_blank">MY RESUME</a>.
 📚 These are some of my <a href="https://drive.google.com/drive/u/1/folders/1p0QPrJRsfh9ApE8ZsHY3tTeKaESiyG40" target="_blank">CREDENTIALS</a>.
 </pre>
