@@ -14,8 +14,6 @@
 🔭 Working as Full-Stack Next.js Developer
 📖 I have a strong interest in animals, videogames and comicbooks.
 🌟 Main languages: TypeScript, Pyhton, Bash, C#
-📝 This is <a href="https://drive.google.com/file/d/1c2MzbfEh7zSN3Tf6CxvZymmwKUVkVjnJ/view" target="_blank">MY RESUME</a>.
-📚 These are some of my <a href="https://drive.google.com/drive/u/1/folders/1p0QPrJRsfh9ApE8ZsHY3tTeKaESiyG40" target="_blank">CREDENTIALS</a>.
 </pre>
 <hr>
 
