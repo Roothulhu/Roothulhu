@@ -281,7 +281,7 @@
 
 ### 🔥 Streak Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafahdzch&theme=tokyonight" alt="Rafa's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roothulhu&theme=tokyonight" alt="Roothulhu's GitHub stats"/>
 </div>
 
 <br />
