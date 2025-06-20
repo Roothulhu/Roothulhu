@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/033428af-3e20-44ae-9e82-ff71400ce120)  <h1>Hi, I'm Roothulhu 🐙</h1>
+<h1>Hi, I'm Roothulhu 🐙</h1>
   <p>Game Developer / Web Developer / Pentester</p>
   <a href="https://app.hackthebox.com/profile/2168819" target="_blank">
     <img src="https://www.hackthebox.eu/badge/image/2168819" alt="Roothulhu - HTB Profile" width="200" align="center">
