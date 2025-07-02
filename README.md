@@ -15,7 +15,7 @@ Game Programmer / NextJS Fullstack Developer / Pentester
 <pre>
 🎓 I have a Bachelors in Videogame Engineering
 🌱 Enrolled in a Master’s in Comprehensive Video Game Design and Development
-🔭 Working as Full-Stack Next.js Developer
+🔭 Working as Next.js Full-Stack Developer
 📖 I have a strong interest in animals, videogames and comicbooks.
 🌟 Main languages: TypeScript, Pyhton, Bash, C#
 </pre>
