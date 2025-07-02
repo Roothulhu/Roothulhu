@@ -282,7 +282,7 @@
 &emsp;
 ### 💻 Profile Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafahdzch&layout=compact&theme=dark&bg_color=0A0A0A" alt="RafaHdzCh"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roothulhu&layout=compact&theme=dark&bg_color=0A0A0A" alt="RafaHdzCh"/>
 </div>
 
 ### 🔥 Streak Stats:
