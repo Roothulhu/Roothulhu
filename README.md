@@ -1,8 +1,13 @@
-<h1>Hi, I'm Roothulhu 🐙</h1>
-  <p>Game Developer / Web Developer / Pentester</p>
-  <a href="https://app.hackthebox.com/profile/2168819" target="_blank">
-    <img src="https://www.hackthebox.eu/badge/image/2168819" alt="Roothulhu - HTB Profile" width="200" align="center">
-  </a>
+<div align="center">
+  
+# Hi, I'm Roothulhu 🐙
+
+Game Programmer / NextJS Fullstack Developer / Pentester
+
+<a href="https://app.hackthebox.com/profile/2168819" target="_blank">
+  <img src="https://www.hackthebox.eu/badge/image/2168819" alt="Roothulhu - HTB Profile" width="200">
+</a>
+
 </div>
 
 <hr>
